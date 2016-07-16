@@ -8,7 +8,7 @@ module.exports = {
   },
 }
 
-# babel-loader
+// babel-loader
 loaders: [
         {
           // 只針對js與jsx檔案
