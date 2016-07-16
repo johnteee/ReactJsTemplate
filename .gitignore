@@ -4,6 +4,9 @@ ios/main.jsbundle
 index.android.bundle
 node_modules
 
+# dist
+dist/app.js
+
 # OS
 .DS_Store
 

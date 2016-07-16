@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import Greeting from './greeting';
 
-React.render(
+ReactDOM.render(
   <Greeting name="World"/>,
-  document.getElementById('example')
+  document.getElementById('content')
 );
